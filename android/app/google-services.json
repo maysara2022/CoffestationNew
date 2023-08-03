@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "604776609151",
+    "project_id": "coffestationnew",
+    "storage_bucket": "coffestationnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604776609151:android:3f0e270b013adb350a564a",
+        "android_client_info": {
+          "package_name": "com.example.coffee_station"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604776609151-lhd9d515fc7jh57rkv01ver67pb5ofim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuGX1OGsQYrtVBN0BfY-8nopq_Js29I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604776609151-lhd9d515fc7jh57rkv01ver67pb5ofim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604776609151-cmscdgj8tg0cfevaaj62ncsamubtjof3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coffeeStation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
